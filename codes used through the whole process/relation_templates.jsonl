@@ -1,0 +1,597 @@
+{"relation": "employer", "template": "{entity1} works for {entity2}."}
+{"relation": "replaced by", "template": "{entity1} was replaced by {entity2}."}
+{"relation": "electoral district", "template": "{entity1} is part of the electoral district {entity2}."}
+{"relation": "mushroom cap shape", "template": "The mushroom cap shape of {entity1} is {entity2}."}
+{"relation": "used by", "template": "{entity1} is used by {entity2}."}
+{"relation": "proved by", "template": "{entity1} was proved by {entity2}."}
+{"relation": "basic form of government", "template": "The basic form of government of {entity1} is {entity2}."}
+{"relation": "participant in", "template": "{entity1} participated in {entity2}."}
+{"relation": "topic's main category", "template": "{entity1} is the main category of {entity2}."}
+{"relation": "after a work by", "template": "{entity1} is after a work by {entity2}."}
+{"relation": "product or material produced or service provided", "template": "{entity1} produces or provides {entity2}."}
+{"relation": "connecting line", "template": "{entity1} is connected by the line {entity2}."}
+{"relation": "referee", "template": "{entity1} is refereed by {entity2}."}
+{"relation": "neurological function", "template": "The neurological function of {entity1} is {entity2}."}
+{"relation": "is a list of", "template": "{entity1} is a list of {entity2}."}
+{"relation": "type of variable star", "template": "{entity1} is a type of variable star called {entity2}."}
+{"relation": "investigated by", "template": "{entity1} was investigated by {entity2}."}
+{"relation": "ESRB rating", "template": "The ESRB rating of {entity1} is {entity2}."}
+{"relation": "stock exchange", "template": "{entity1} is listed on the stock exchange {entity2}."}
+{"relation": "founded by", "template": "{entity1} was founded by {entity2}."}
+{"relation": "category for pictures taken with equipment", "template": "{entity1} is a category for pictures taken with {entity2}."}
+{"relation": "head of state", "template": "{entity1} is the head of state of {entity2}."}
+{"relation": "significant drug interaction", "template": "{entity1} has a significant drug interaction with {entity2}."}
+{"relation": "Sandbox-Item", "template": "{entity1} is related to the Sandbox-Item {entity2}."}
+{"relation": "interleaves with", "template": "{entity1} interleaves with {entity2}."}
+{"relation": "biological process", "template": "{entity1} is involved in the biological process {entity2}."}
+{"relation": "geo datum", "template": "The geo datum of {entity1} is {entity2}."}
+{"relation": "producer", "template": "{entity1} is produced by {entity2}."}
+{"relation": "activating neurotransmitter", "template": "The activating neurotransmitter for {entity1} is {entity2}."}
+{"relation": "speaker", "template": "{entity1} is a speaker of {entity2}."}
+{"relation": "record held", "template": "{entity1} holds the record for {entity2}."}
+{"relation": "guest of honor", "template": "{entity1} was the guest of honor at {entity2}."}
+{"relation": "unveiled by", "template": "{entity1} was unveiled by {entity2}."}
+{"relation": "mother house", "template": "{entity1} is the mother house of {entity2}."}
+{"relation": "partner in business or sport", "template": "{entity1} is a business or sport partner of {entity2}."}
+{"relation": "facet of", "template": "{entity1} is a facet of {entity2}."}
+{"relation": "has dialect", "template": "{entity1} has a dialect called {entity2}."}
+{"relation": "commemorates", "template": "{entity1} commemorates {entity2}."}
+{"relation": "place of death", "template": "{entity1} died at {entity2}."}
+{"relation": "volcanic explosivity index", "template": "The volcanic explosivity index of {entity1} is {entity2}."}
+{"relation": "gene duplication association with", "template": "{entity1} is associated with gene duplication {entity2}."}
+{"relation": "track gauge", "template": "The track gauge of {entity1} is {entity2}."}
+{"relation": "definition domain", "template": "The definition domain of {entity1} is {entity2}."}
+{"relation": "parent taxon", "template": "The parent taxon of {entity1} is {entity2}."}
+{"relation": "political alignment", "template": "{entity1} has political alignment with {entity2}."}
+{"relation": "anatomical location", "template": "{entity1} is located at {entity2}."}
+{"relation": "hymenium type", "template": "The hymenium type of {entity1} is {entity2}."}
+{"relation": "represents", "template": "{entity1} represents {entity2}."}
+{"relation": "participant", "template": "{entity1} is a participant in {entity2}."}
+{"relation": "category combines topics", "template": "The category {entity1} combines topics of {entity2}."}
+{"relation": "location of landing", "template": "{entity1} landed at {entity2}."}
+{"relation": "discovery method", "template": "{entity1} was discovered using {entity2}."}
+{"relation": "replaced synonym (for nom. nov.)", "template": "{entity1} is a replaced synonym of {entity2}."}
+{"relation": "end cause", "template": "The end cause of {entity1} is {entity2}."}
+{"relation": "legislated by", "template": "{entity1} was legislated by {entity2}."}
+{"relation": "symptoms and signs", "template": "{entity1} has symptoms and signs {entity2}."}
+{"relation": "stepfather", "template": "{entity1} is the stepfather of {entity2}."}
+{"relation": "product certification", "template": "{entity1} has the product certification {entity2}."}
+{"relation": "team captain", "template": "{entity1} is the team captain of {entity2}."}
+{"relation": "position played on team / speciality", "template": "{entity1} plays the position of {entity2}."}
+{"relation": "cover art by", "template": "The cover art of {entity1} was done by {entity2}."}
+{"relation": "contributor to the creative work or subject", "template": "{entity1} contributed to the creative work {entity2}."}
+{"relation": "officeholder", "template": "{entity1} is the officeholder of {entity2}."}
+{"relation": "feast day", "template": "The feast day of {entity1} is {entity2}."}
+{"relation": "fabrication method", "template": "The fabrication method of {entity1} is {entity2}."}
+{"relation": "field of this occupation", "template": "{entity1} works in the field of {entity2}."}
+{"relation": "main food source", "template": "The main food source of {entity1} is {entity2}."}
+{"relation": "port of registry", "template": "The port of registry of {entity1} is {entity2}."}
+{"relation": "part of the series", "template": "{entity1} is part of the series {entity2}."}
+{"relation": "printed by", "template": "{entity1} was printed by {entity2}."}
+{"relation": "choreographer", "template": "The choreographer of {entity1} is {entity2}."}
+{"relation": "list related to category", "template": "The list related to the category {entity1} is {entity2}."}
+{"relation": "website account on", "template": "{entity1} has a website account on {entity2}."}
+{"relation": "country of origin", "template": "{entity1} originates from {entity2}."}
+{"relation": "soundtrack release", "template": "The soundtrack of {entity1} was released by {entity2}."}
+{"relation": "narrative location", "template": "The narrative location of {entity1} is {entity2}."}
+{"relation": "this taxon is source of", "template": "{entity1} is the source of {entity2}."}
+{"relation": "index case of", "template": "{entity1} is the index case of {entity2}."}
+{"relation": "catalog", "template": "{entity1} is cataloged in {entity2}."}
+{"relation": "approximation algorithm", "template": "{entity1} uses the approximation algorithm {entity2}."}
+{"relation": "applies to part", "template": "{entity1} applies to part {entity2}."}
+{"relation": "topic's main Wikimedia portal", "template": "The main Wikimedia portal for {entity1} is {entity2}."}
+{"relation": "author", "template": "{entity1} is authored by {entity2}."}
+{"relation": "located in or next to body of water", "template": "{entity1} is located in or next to {entity2}."}
+{"relation": "has effect", "template": "{entity1} has the effect of {entity2}."}
+{"relation": "location of creation", "template": "{entity1} was created in {entity2}."}
+{"relation": "decreased expression in", "template": "{entity1} has decreased expression in {entity2}."}
+{"relation": "subclass of", "template": "{entity1} is a subclass of {entity2}."}
+{"relation": "occupant", "template": "{entity1} is the occupant of {entity2}."}
+{"relation": "defender", "template": "{entity1} is defended by {entity2}."}
+{"relation": "sponsor", "template": "{entity1} is sponsored by {entity2}."}
+{"relation": "type of electrification", "template": "The type of electrification of {entity1} is {entity2}."}
+{"relation": "parent club", "template": "{entity1} is the parent club of {entity2}."}
+{"relation": "phase of matter", "template": "The phase of matter of {entity1} is {entity2}."}
+{"relation": "presenter", "template": "{entity1} was presented by {entity2}."}
+{"relation": "hybrid of", "template": "{entity1} is a hybrid of {entity2}."}
+{"relation": "gene substitution association with", "template": "{entity1} is associated with gene substitution {entity2}."}
+{"relation": "ortholog", "template": "{entity1} is an ortholog of {entity2}."}
+{"relation": "prosecutor", "template": "{entity1} was prosecuted by {entity2}."}
+{"relation": "country for sport", "template": "{entity1} represents the country {entity2} in sports."}
+{"relation": "legal form", "template": "The legal form of {entity1} is {entity2}."}
+{"relation": "commissioned by", "template": "{entity1} was commissioned by {entity2}."}
+{"relation": "chief executive officer", "template": "The chief executive officer of {entity1} is {entity2}."}
+{"relation": "parent astronomical body", "template": "The parent astronomical body of {entity1} is {entity2}."}
+{"relation": "country of citizenship", "template": "{entity1} holds citizenship in {entity2}."}
+{"relation": "basionym", "template": "The basionym of {entity1} is {entity2}."}
+{"relation": "fuel system", "template": "The fuel system of {entity1} is {entity2}."}
+{"relation": "lifestyle", "template": "The lifestyle of {entity1} is {entity2}."}
+{"relation": "Vox-ATypI classification", "template": "The Vox-ATypI classification of {entity1} is {entity2}."}
+{"relation": "measurement scale", "template": "The measurement scale of {entity1} is {entity2}."}
+{"relation": "located on astronomical body", "template": "{entity1} is located on the astronomical body {entity2}."}
+{"relation": "patron saint", "template": "The patron saint of {entity1} is {entity2}."}
+{"relation": "influenced by", "template": "{entity1} is influenced by {entity2}."}
+{"relation": "FSK film rating", "template": "The FSK film rating of {entity1} is {entity2}."}
+{"relation": "central bank/issuer", "template": "The central bank/issuer for {entity1} is {entity2}."}
+{"relation": "including", "template": "{entity1} includes {entity2}."}
+{"relation": "worshipped by", "template": "{entity1} is worshipped by {entity2}."}
+{"relation": "topic's main template", "template": "The main template for {entity1} is {entity2}."}
+{"relation": "origin of the watercourse", "template": "The origin of the watercourse for {entity1} is {entity2}."}
+{"relation": "physically interacts with", "template": "{entity1} physically interacts with {entity2}."}
+{"relation": "movement", "template": "The movement of {entity1} is {entity2}."}
+{"relation": "chief operating officer", "template": "The chief operating officer of {entity1} is {entity2}."}
+{"relation": "family", "template": "{entity1} is part of the family {entity2}."}
+{"relation": "editor", "template": "The editor of {entity1} is {entity2}."}
+{"relation": "template has topic", "template": "The template for {entity1} has the topic {entity2}."}
+{"relation": "killed by", "template": "{entity1} was killed by {entity2}."}
+{"relation": "said to be the same as", "template": "{entity1} is said to be the same as {entity2}."}
+{"relation": "recorded at studio or venue", "template": "{entity1} was recorded at {entity2}."}
+{"relation": "occupation", "template": "The occupation of {entity1} is {entity2}."}
+{"relation": "decays to", "template": "{entity1} decays to {entity2}."}
+{"relation": "charge", "template": "The charge of {entity1} is {entity2}."}
+{"relation": "brand", "template": "The brand of {entity1} is {entity2}."}
+{"relation": "companion of", "template": "{entity1} is a companion of {entity2}."}
+{"relation": "found in taxon", "template": "{entity1} is found in the taxon {entity2}."}
+{"relation": "vessel", "template": "{entity1} is a vessel of {entity2}."}
+{"relation": "transmitted signal type", "template": "The transmitted signal type of {entity1} is {entity2}."}
+{"relation": "significant event", "template": "A significant event for {entity1} is {entity2}."}
+{"relation": "shipping port", "template": "The shipping port for {entity1} is {entity2}."}
+{"relation": "flag", "template": "The flag of {entity1} is {entity2}."}
+{"relation": "academic major", "template": "The academic major of {entity1} is {entity2}."}
+{"relation": "has part(s)", "template": "{entity1} has part(s) {entity2}."}
+{"relation": "armament", "template": "The armament of {entity1} is {entity2}."}
+{"relation": "official language", "template": "The official language of {entity1} is {entity2}."}
+{"relation": "proxy", "template": "{entity1} is a proxy for {entity2}."}
+{"relation": "located in the administrative territorial entity", "template": "{entity1} is located in the administrative territorial entity {entity2}."}
+{"relation": "curator", "template": "The curator of {entity1} is {entity2}."}
+{"relation": "official residence", "template": "The official residence of {entity1} is {entity2}."}
+{"relation": "taxonomic type", "template": "The taxonomic type of {entity1} is {entity2}."}
+{"relation": "guidance system", "template": "The guidance system of {entity1} is {entity2}."}
+{"relation": "list of works", "template": "The list of works by {entity1} includes {entity2}."}
+{"relation": "overlies", "template": "{entity1} overlies {entity2}."}
+{"relation": "mother", "template": "{entity1} is the mother of {entity2}."}
+{"relation": "member of sports team", "template": "{entity1} is a member of the sports team {entity2}."}
+{"relation": "exhibition history", "template": "The exhibition history of {entity1} includes {entity2}."}
+{"relation": "owner of", "template": "{entity1} is the owner of {entity2}."}
+{"relation": "godparent", "template": "{entity1} is the godparent of {entity2}."}
+{"relation": "airline hub", "template": "The airline hub for {entity1} is {entity2}."}
+{"relation": "category's main topic", "template": "The category's main topic for {entity1} is {entity2}."}
+{"relation": "dual to", "template": "{entity1} is dual to {entity2}."}
+{"relation": "named after", "template": "{entity1} is named after {entity2}."}
+{"relation": "located in/on physical feature", "template": "{entity1} is located in/on {entity2}."}
+{"relation": "magnetic ordering", "template": "The magnetic ordering of {entity1} is {entity2}."}
+{"relation": "binding of software library", "template": "{entity1} is the binding of the software library {entity2}."}
+{"relation": "type of orbit", "template": "The type of orbit of {entity1} is {entity2}."}
+{"relation": "manner of death", "template": "The manner of death of {entity1} is {entity2}."}
+{"relation": "terminus", "template": "{entity1} terminates at {entity2}."}
+{"relation": "highest point", "template": "The highest point of {entity1} is {entity2}."}
+{"relation": "afflicts", "template": "{entity1} afflicts {entity2}."}
+{"relation": "location", "template": "The location of {entity1} is {entity2}."}
+{"relation": "mascot", "template": "The mascot of {entity1} is {entity2}."}
+{"relation": "replaces", "template": "{entity1} replaces {entity2}."}
+{"relation": "executive producer", "template": "The executive producer of {entity1} is {entity2}."}
+{"relation": "color", "template": "The color of {entity1} is {entity2}."}
+{"relation": "conferred by", "template": "{entity1} is conferred by {entity2}."}
+{"relation": "student of", "template": "{entity1} is a student of {entity2}."}
+{"relation": "inspired by", "template": "{entity1} is inspired by {entity2}."}
+{"relation": "temporal range start", "template": "The temporal range start of {entity1} is {entity2}."}
+{"relation": "undercarriage", "template": "The undercarriage of {entity1} is {entity2}."}
+{"relation": "attributed to", "template": "{entity1} is attributed to {entity2}."}
+{"relation": "head of government", "template": "The head of government of {entity1} is {entity2}."}
+{"relation": "stated in", "template": "{entity1} is stated in {entity2}."}
+{"relation": "cause of destruction", "template": "The cause of destruction of {entity1} is {entity2}."}
+{"relation": "depicts", "template": "{entity1} depicts {entity2}."}
+{"relation": "notable work", "template": "A notable work of {entity1} is {entity2}."}
+{"relation": "place of burial", "template": "{entity1} is buried at {entity2}."}
+{"relation": "instrumentation", "template": "The instrumentation of {entity1} is {entity2}."}
+{"relation": "developer", "template": "The developer of {entity1} is {entity2}."}
+{"relation": "from narrative universe", "template": "{entity1} is from the narrative universe {entity2}."}
+{"relation": "religious order", "template": "{entity1} belongs to the religious order {entity2}."}
+{"relation": "basin country", "template": "The basin country of {entity1} is {entity2}."}
+{"relation": "surface played on", "template": "{entity1} is played on the surface {entity2}."}
+{"relation": "child astronomical body", "template": "The child astronomical body of {entity1} is {entity2}."}
+{"relation": "patron", "template": "{entity1} is a patron of {entity2}."}
+{"relation": "distribution format", "template": "The distribution format of {entity1} is {entity2}."}
+{"relation": "software engine", "template": "The software engine for {entity1} is {entity2}."}
+{"relation": "category for people who died here", "template": "The category for people who died at {entity1} is {entity2}."}
+{"relation": "EC enzyme classification", "template": "The EC enzyme classification of {entity1} is {entity2}."}
+{"relation": "has immediate cause", "template": "{entity1} has the immediate cause {entity2}."}
+{"relation": "possible treatment", "template": "A possible treatment for {entity1} is {entity2}."}
+{"relation": "readable file format", "template": "The readable file format of {entity1} is {entity2}."}
+{"relation": "academic degree", "template": "{entity1} has the academic degree {entity2}."}
+{"relation": "currency", "template": "The currency of {entity1} is {entity2}."}
+{"relation": "category of associated people", "template": "The category of people associated with {entity1} is {entity2}."}
+{"relation": "parent organization", "template": "The parent organization of {entity1} is {entity2}."}
+{"relation": "affiliation", "template": "{entity1} is affiliated with {entity2}."}
+{"relation": "country", "template": "{entity1} is located in {entity2}."}
+{"relation": "driving side", "template": "The driving side in {entity1} is {entity2}."}
+{"relation": "exclave of", "template": "{entity1} is an exclave of {entity2}."}
+{"relation": "home venue", "template": "The home venue of {entity1} is {entity2}."}
+{"relation": "public holiday", "template": "A public holiday in {entity1} is {entity2}."}
+{"relation": "encodes", "template": "{entity1} encodes {entity2}."}
+{"relation": "avionics", "template": "The avionics of {entity1} is {entity2}."}
+{"relation": "collection", "template": "The collection of {entity1} is {entity2}."}
+{"relation": "oath made by", "template": "{entity1} is under oath made by {entity2}."}
+{"relation": "main regulatory text", "template": "The main regulatory text for {entity1} is {entity2}."}
+{"relation": "posttranslational modification association with", "template": "{entity1} is associated with posttranslational modification {entity2}."}
+{"relation": "instruction set", "template": "The instruction set of {entity1} is {entity2}."}
+{"relation": "criterion used", "template": "The criterion used by {entity1} is {entity2}."}
+{"relation": "executive body", "template": "The executive body of {entity1} is {entity2}."}
+{"relation": "outflows", "template": "{entity1} outflows to {entity2}."}
+{"relation": "foundational text", "template": "The foundational text for {entity1} is {entity2}."}
+{"relation": "has melody", "template": "The melody of {entity1} is {entity2}."}
+{"relation": "standards body", "template": "The standards body for {entity1} is {entity2}."}
+{"relation": "IUCN protected areas category", "template": "The IUCN protected areas category of {entity1} is {entity2}."}
+{"relation": "launch contractor", "template": "The launch contractor for {entity1} is {entity2}."}
+{"relation": "compressor type", "template": "The compressor type of {entity1} is {entity2}."}
+{"relation": "review score by", "template": "{entity1} has a review score by {entity2}."}
+{"relation": "represented by", "template": "{entity1} is represented by {entity2}."}
+{"relation": "crew member(s)", "template": "{entity1} has crew member(s) {entity2}."}
+{"relation": "instance of", "template": "{entity1} is an instance of {entity2}."}
+{"relation": "relative", "template": "{entity1} is a relative of {entity2}."}
+{"relation": "UNESCO language status", "template": "The UNESCO language status of {entity1} is {entity2}."}
+{"relation": "authority", "template": "The authority of {entity1} is {entity2}."}
+{"relation": "record label", "template": "The record label of {entity1} is {entity2}."}
+{"relation": "adjacent station", "template": "The adjacent station to {entity1} is {entity2}."}
+{"relation": "solved by", "template": "{entity1} was solved by {entity2}."}
+{"relation": "distributed by", "template": "{entity1} is distributed by {entity2}."}
+{"relation": "enclave within", "template": "{entity1} is an enclave within {entity2}."}
+{"relation": "successful candidate", "template": "{entity1} is a successful candidate in {entity2}."}
+{"relation": "home world", "template": "The home world of {entity1} is {entity2}."}
+{"relation": "industry", "template": "The industry of {entity1} is {entity2}."}
+{"relation": "located on street", "template": "{entity1} is located on {entity2}."}
+{"relation": "site of astronomical discovery", "template": "The site of astronomical discovery for {entity1} is {entity2}."}
+{"relation": "general manager", "template": "The general manager of {entity1} is {entity2}."}
+{"relation": "species kept", "template": "{entity1} keeps species {entity2}."}
+{"relation": "GUI toolkit or framework", "template": "The GUI toolkit or framework of {entity1} is {entity2}."}
+{"relation": "Wikidata item of this property", "template": "The Wikidata item of the property {entity1} is {entity2}."}
+{"relation": "space tug", "template": "The space tug of {entity1} is {entity2}."}
+{"relation": "unmarried partner", "template": "{entity1} is an unmarried partner of {entity2}."}
+{"relation": "sexual orientation", "template": "The sexual orientation of {entity1} is {entity2}."}
+{"relation": "radio format", "template": "The radio format of {entity1} is {entity2}."}
+{"relation": "maintained by", "template": "{entity1} is maintained by {entity2}."}
+{"relation": "translator", "template": "The translator of {entity1} is {entity2}."}
+{"relation": "asteroid spectral type", "template": "The asteroid spectral type of {entity1} is {entity2}."}
+{"relation": "depicted by", "template": "{entity1} is depicted by {entity2}."}
+{"relation": "nominated for", "template": "{entity1} was nominated for {entity2}."}
+{"relation": "defendant", "template": "{entity1} is a defendant in {entity2}."}
+{"relation": "statement is subject of", "template": "{entity1} is the subject of the statement {entity2}."}
+{"relation": "given name version for other gender", "template": "{entity1} is the given name version for the other gender {entity2}."}
+{"relation": "Lagrangian point", "template": "The Lagrangian point of {entity1} is {entity2}."}
+{"relation": "part of", "template": "{entity1} is part of {entity2}."}
+{"relation": "edition or translation of", "template": "{entity1} is an edition or translation of {entity2}."}
+{"relation": "cleavage", "template": "The cleavage of {entity1} is {entity2}."}
+{"relation": "place served by transport hub", "template": "{entity1} serves the place {entity2}."}
+{"relation": "manufacturer", "template": "The manufacturer of {entity1} is {entity2}."}
+{"relation": "IMA status and/or rank", "template": "The IMA status and/or rank of {entity1} is {entity2}."}
+{"relation": "legislative body", "template": "The legislative body of {entity1} is {entity2}."}
+{"relation": "voice type", "template": "The voice type of {entity1} is {entity2}."}
+{"relation": "inflows", "template": "{entity1} inflows into {entity2}."}
+{"relation": "continent", "template": "{entity1} is part of the continent {entity2}."}
+{"relation": "investor", "template": "The investor in {entity1} is {entity2}."}
+{"relation": "based on", "template": "{entity1} is based on {entity2}."}
+{"relation": "destination point", "template": "The destination point of {entity1} is {entity2}."}
+{"relation": "given name", "template": "The given name of {entity1} is {entity2}."}
+{"relation": "ammunition", "template": "The ammunition used by {entity1} is {entity2}."}
+{"relation": "residence", "template": "The residence of {entity1} is {entity2}."}
+{"relation": "code of nomenclature", "template": "The code of nomenclature for {entity1} is {entity2}."}
+{"relation": "family name", "template": "The family name of {entity1} is {entity2}."}
+{"relation": "USK rating", "template": "The USK rating of {entity1} is {entity2}."}
+{"relation": "central bank", "template": "The central bank of {entity1} is {entity2}."}
+{"relation": "student", "template": "{entity1} is a student of {entity2}."}
+{"relation": "script directionality", "template": "The script directionality of {entity1} is {entity2}."}
+{"relation": "supercharger", "template": "The supercharger of {entity1} is {entity2}."}
+{"relation": "disease transmission process", "template": "The disease transmission process of {entity1} is {entity2}."}
+{"relation": "manifestation of", "template": "{entity1} is a manifestation of {entity2}."}
+{"relation": "honorific prefix", "template": "The honorific prefix of {entity1} is {entity2}."}
+{"relation": "place of origin (Switzerland)", "template": "{entity1} originated in {entity2}, Switzerland."}
+{"relation": "writing system", "template": "The writing system of {entity1} is {entity2}."}
+{"relation": "commander of (DEPRECATED)", "template": "{entity1} was the commander of {entity2} (DEPRECATED)."}
+{"relation": "taxon rank", "template": "The taxon rank of {entity1} is {entity2}."}
+{"relation": "canonization status", "template": "The canonization status of {entity1} is {entity2}."}
+{"relation": "has use", "template": "{entity1} has the use {entity2}."}
+{"relation": "immediate cause of", "template": "{entity1} is the immediate cause of {entity2}."}
+{"relation": "allegiance", "template": "The allegiance of {entity1} is {entity2}."}
+{"relation": "has characteristic", "template": "{entity1} has the characteristic {entity2}."}
+{"relation": "encoded by", "template": "{entity1} is encoded by {entity2}."}
+{"relation": "category related to list", "template": "The category related to the list {entity1} is {entity2}."}
+{"relation": "professorship", "template": "The professorship of {entity1} is {entity2}."}
+{"relation": "CPU", "template": "The CPU of {entity1} is {entity2}."}
+{"relation": "director", "template": "The director of {entity1} is {entity2}."}
+{"relation": "route of administration", "template": "The route of administration for {entity1} is {entity2}."}
+{"relation": "structural engineer", "template": "The structural engineer of {entity1} is {entity2}."}
+{"relation": "main building contractor", "template": "The main building contractor for {entity1} is {entity2}."}
+{"relation": "temporal range end", "template": "The temporal range end of {entity1} is {entity2}."}
+{"relation": "tracklist", "template": "The tracklist of {entity1} includes {entity2}."}
+{"relation": "GSRR rating", "template": "The GSRR rating of {entity1} is {entity2}."}
+{"relation": "drafted by", "template": "{entity1} was drafted by {entity2}."}
+{"relation": "presynaptic connection", "template": "The presynaptic connection of {entity1} is {entity2}."}
+{"relation": "input device", "template": "The input device for {entity1} is {entity2}."}
+{"relation": "twinned administrative body", "template": "{entity1} is twinned with the administrative body {entity2}."}
+{"relation": "candidate", "template": "{entity1} is a candidate in {entity2}."}
+{"relation": "source of energy", "template": "The source of energy for {entity1} is {entity2}."}
+{"relation": "terminus location", "template": "The terminus location of {entity1} is {entity2}."}
+{"relation": "place of birth", "template": "The place of birth of {entity1} is {entity2}."}
+{"relation": "place of publication", "template": "The place of publication of {entity1} is {entity2}."}
+{"relation": "codomain", "template": "The codomain of {entity1} is {entity2}."}
+{"relation": "list of episodes", "template": "The list of episodes in {entity1} includes {entity2}."}
+{"relation": "shooting handedness", "template": "The shooting handedness of {entity1} is {entity2}."}
+{"relation": "published in", "template": "{entity1} was published in {entity2}."}
+{"relation": "gene insertion association with", "template": "{entity1} is associated with gene insertion {entity2}."}
+{"relation": "gene deletion association with", "template": "{entity1} is associated with gene deletion {entity2}."}
+{"relation": "contributing factor of", "template": "{entity1} is a contributing factor of {entity2}."}
+{"relation": "aspect ratio (W:H)", "template": "The aspect ratio (W:H) of {entity1} is {entity2}."}
+{"relation": "military branch", "template": "The military branch of {entity1} is {entity2}."}
+{"relation": "partially coincident with", "template": "{entity1} is partially coincident with {entity2}."}
+{"relation": "contains settlement", "template": "{entity1} contains the settlement {entity2}."}
+{"relation": "carries scientific instrument", "template": "{entity1} carries the scientific instrument {entity2}."}
+{"relation": "imported from Wikimedia project", "template": "{entity1} was imported from the Wikimedia project {entity2}."}
+{"relation": "cause of death", "template": "The cause of death of {entity1} is {entity2}."}
+{"relation": "vaccine for", "template": "The vaccine for {entity1} is {entity2}."}
+{"relation": "anthem", "template": "The anthem of {entity1} is {entity2}."}
+{"relation": "list of characters", "template": "The list of characters in {entity1} includes {entity2}."}
+{"relation": "capital", "template": "The capital of {entity1} is {entity2}."}
+{"relation": "vessel class", "template": "The vessel class of {entity1} is {entity2}."}
+{"relation": "dedicated to", "template": "{entity1} is dedicated to {entity2}."}
+{"relation": "workshop of", "template": "The workshop of {entity1} is {entity2}."}
+{"relation": "IUCN conservation status", "template": "The IUCN conservation status of {entity1} is {entity2}."}
+{"relation": "has pet", "template": "{entity1} has a pet {entity2}."}
+{"relation": "chivalric order", "template": "The chivalric order of {entity1} is {entity2}."}
+{"relation": "has vertex figure", "template": "The vertex figure of {entity1} is {entity2}."}
+{"relation": "rector", "template": "The rector of {entity1} is {entity2}."}
+{"relation": "diocese", "template": "The diocese of {entity1} is {entity2}."}
+{"relation": "party chief representative", "template": "The party chief representative of {entity1} is {entity2}."}
+{"relation": "screenwriter", "template": "The screenwriter of {entity1} is {entity2}."}
+{"relation": "space launch vehicle", "template": "The space launch vehicle for {entity1} is {entity2}."}
+{"relation": "military rank", "template": "The military rank of {entity1} is {entity2}."}
+{"relation": "academic minor", "template": "The academic minor of {entity1} is {entity2}."}
+{"relation": "gene inversion association with", "template": "{entity1} is associated with gene inversion {entity2}."}
+{"relation": "child", "template": "{entity1} is the child of {entity2}."}
+{"relation": "socket supported", "template": "The socket supported by {entity1} is {entity2}."}
+{"relation": "introduced feature", "template": "The feature introduced by {entity1} is {entity2}."}
+{"relation": "postsynaptic connection", "template": "The postsynaptic connection of {entity1} is {entity2}."}
+{"relation": "designed by", "template": "{entity1} was designed by {entity2}."}
+{"relation": "sister", "template": "{entity1} is the sister of {entity2}."}
+{"relation": "blood type", "template": "The blood type of {entity1} is {entity2}."}
+{"relation": "category for films shot at this location", "template": "The category for films shot at {entity1} is {entity2}."}
+{"relation": "MPA film rating", "template": "The MPA film rating of {entity1} is {entity2}."}
+{"relation": "measured physical quantity", "template": "The measured physical quantity of {entity1} is {entity2}."}
+{"relation": "has subsidiary", "template": "{entity1} has the subsidiary {entity2}."}
+{"relation": "structure replaced by", "template": "The structure of {entity1} was replaced by {entity2}."}
+{"relation": "separated from", "template": "{entity1} is separated from {entity2}."}
+{"relation": "league", "template": "The league of {entity1} is {entity2}."}
+{"relation": "space group", "template": "The space group of {entity1} is {entity2}."}
+{"relation": "ploidy", "template": "The ploidy of {entity1} is {entity2}."}
+{"relation": "engine configuration", "template": "The engine configuration of {entity1} is {entity2}."}
+{"relation": "theme music", "template": "The theme music of {entity1} is {entity2}."}
+{"relation": "lyrics by", "template": "The lyrics of {entity1} are by {entity2}."}
+{"relation": "vice-county", "template": "The vice-county of {entity1} is {entity2}."}
+{"relation": "crosses", "template": "{entity1} crosses {entity2}."}
+{"relation": "minor planet group", "template": "The minor planet group of {entity1} is {entity2}."}
+{"relation": "constellation", "template": "The constellation of {entity1} is {entity2}."}
+{"relation": "input set", "template": "The input set of {entity1} is {entity2}."}
+{"relation": "molecular function", "template": "The molecular function of {entity1} is {entity2}."}
+{"relation": "political ideology", "template": "The political ideology of {entity1} is {entity2}."}
+{"relation": "fictional universe described in", "template": "{entity1} is described in the fictional universe {entity2}."}
+{"relation": "approved by", "template": "{entity1} was approved by {entity2}."}
+{"relation": "performer", "template": "{entity1} is performed by {entity2}."}
+{"relation": "takes place in fictional universe", "template": "{entity1} takes place in the fictional universe {entity2}."}
+{"relation": "determination method", "template": "The determination method for {entity1} is {entity2}."}
+{"relation": "tempo marking", "template": "The tempo marking of {entity1} is {entity2}."}
+{"relation": "train depot", "template": "The train depot for {entity1} is {entity2}."}
+{"relation": "taxon synonym", "template": "The taxon synonym for {entity1} is {entity2}."}
+{"relation": "penalty", "template": "The penalty for {entity1} is {entity2}."}
+{"relation": "dan/kyu rank", "template": "The dan/kyu rank of {entity1} is {entity2}."}
+{"relation": "capital of", "template": "{entity1} is the capital of {entity2}."}
+{"relation": "appointed by", "template": "{entity1} was appointed by {entity2}."}
+{"relation": "followed by", "template": "{entity1} is followed by {entity2}."}
+{"relation": "influences on", "template": "{entity1} has influences on {entity2}."}
+{"relation": "signatory", "template": "{entity1} is a signatory of {entity2}."}
+{"relation": "different from", "template": "{entity1} is different from {entity2}."}
+{"relation": "operator", "template": "The operator of {entity1} is {entity2}."}
+{"relation": "category for people buried here", "template": "The category for people buried at {entity1} is {entity2}."}
+{"relation": "currency symbol description", "template": "The currency symbol description of {entity1} is {entity2}."}
+{"relation": "phase point", "template": "The phase point of {entity1} is {entity2}."}
+{"relation": "based on heuristic", "template": "{entity1} is based on the heuristic {entity2}."}
+{"relation": "coat of arms", "template": "The coat of arms of {entity1} is {entity2}."}
+{"relation": "crystal habit", "template": "The crystal habit of {entity1} is {entity2}."}
+{"relation": "lake on watercourse", "template": "The lake on the watercourse of {entity1} is {entity2}."}
+{"relation": "copyright license", "template": "The copyright license of {entity1} is {entity2}."}
+{"relation": "licensed to broadcast to", "template": "{entity1} is licensed to broadcast to {entity2}."}
+{"relation": "target", "template": "The target of {entity1} is {entity2}."}
+{"relation": "playing hand", "template": "The playing hand of {entity1} is {entity2}."}
+{"relation": "has facility", "template": "{entity1} has the facility {entity2}."}
+{"relation": "twinning", "template": "{entity1} is twinned with {entity2}."}
+{"relation": "programmer", "template": "The programmer of {entity1} is {entity2}."}
+{"relation": "located on linear feature", "template": "{entity1} is located on the linear feature {entity2}."}
+{"relation": "Wikimedia portal's main topic", "template": "The main topic of the Wikimedia portal {entity1} is {entity2}."}
+{"relation": "office contested", "template": "The office contested by {entity1} is {entity2}."}
+{"relation": "pendant of", "template": "{entity1} is a pendant of {entity2}."}
+{"relation": "crystal system", "template": "The crystal system of {entity1} is {entity2}."}
+{"relation": "depositary", "template": "The depositary of {entity1} is {entity2}."}
+{"relation": "convicted of", "template": "{entity1} was convicted of {entity2}."}
+{"relation": "filmography", "template": "The filmography of {entity1} includes {entity2}."}
+{"relation": "present in work", "template": "{entity1} is present in the work {entity2}."}
+{"relation": "doctoral student", "template": "{entity1} is a doctoral student of {entity2}."}
+{"relation": "foods traditionally associated", "template": "{entity1} is traditionally associated with the food {entity2}."}
+{"relation": "handedness", "template": "The handedness of {entity1} is {entity2}."}
+{"relation": "eye color", "template": "The eye color of {entity1} is {entity2}."}
+{"relation": "headquarters location", "template": "The headquarters location of {entity1} is {entity2}."}
+{"relation": "underlies", "template": "{entity1} underlies {entity2}."}
+{"relation": "fictional or mythical analog of", "template": "{entity1} is a fictional or mythical analog of {entity2}."}
+{"relation": "has seal, badge, or sigil", "template": "{entity1} has the seal, badge, or sigil {entity2}."}
+{"relation": "architectural style", "template": "The architectural style of {entity1} is {entity2}."}
+{"relation": "docking port", "template": "The docking port of {entity1} is {entity2}."}
+{"relation": "film editor", "template": "The film editor of {entity1} is {entity2}."}
+{"relation": "name day", "template": "The name day of {entity1} is {entity2}."}
+{"relation": "chromosome", "template": "The chromosome of {entity1} is {entity2}."}
+{"relation": "natural reservoir of", "template": "{entity1} is the natural reservoir of {entity2}."}
+{"relation": "head coach", "template": "The head coach of {entity1} is {entity2}."}
+{"relation": "spacecraft bus", "template": "The spacecraft bus of {entity1} is {entity2}."}
+{"relation": "academic thesis", "template": "The academic thesis of {entity1} is {entity2}."}
+{"relation": "GHS signal word", "template": "The GHS signal word for {entity1} is {entity2}."}
+{"relation": "doctoral advisor", "template": "The doctoral advisor of {entity1} is {entity2}."}
+{"relation": "consecrator", "template": "{entity1} was consecrated by {entity2}."}
+{"relation": "mushroom ecological type", "template": "The mushroom ecological type of {entity1} is {entity2}."}
+{"relation": "participating team", "template": "The participating team of {entity1} is {entity2}."}
+{"relation": "office held by head of government", "template": "The office held by the head of government {entity1} is {entity2}."}
+{"relation": "plaintiff", "template": "{entity1} is the plaintiff in {entity2}."}
+{"relation": "powered by", "template": "{entity1} is powered by {entity2}."}
+{"relation": "family name identical to this given name", "template": "The family name identical to the given name {entity1} is {entity2}."}
+{"relation": "biosafety level", "template": "The biosafety level of {entity1} is {entity2}."}
+{"relation": "coolant", "template": "The coolant of {entity1} is {entity2}."}
+{"relation": "shares border with", "template": "{entity1} shares a border with {entity2}."}
+{"relation": "medical condition", "template": "{entity1} has the medical condition {entity2}."}
+{"relation": "asteroid family", "template": "The asteroid family of {entity1} is {entity2}."}
+{"relation": "tributary", "template": "The tributary of {entity1} is {entity2}."}
+{"relation": "publisher", "template": "The publisher of {entity1} is {entity2}."}
+{"relation": "health specialty", "template": "The health specialty of {entity1} is {entity2}."}
+{"relation": "chairperson", "template": "The chairperson of {entity1} is {entity2}."}
+{"relation": "voice actor", "template": "The voice actor for {entity1} is {entity2}."}
+{"relation": "made from material", "template": "{entity1} is made from the material {entity2}."}
+{"relation": "noble title", "template": "{entity1} holds the noble title {entity2}."}
+{"relation": "torch lit by", "template": "{entity1} was lit by the torch {entity2}."}
+{"relation": "top-level Internet domain", "template": "The top-level Internet domain for {entity1} is {entity2}."}
+{"relation": "wing configuration", "template": "The wing configuration of {entity1} is {entity2}."}
+{"relation": "location of formation", "template": "The location of formation for {entity1} is {entity2}."}
+{"relation": "territory claimed by", "template": "{entity1} is a territory claimed by {entity2}."}
+{"relation": "category for the water basin", "template": "The category for the water basin {entity1} is {entity2}."}
+{"relation": "stepmother", "template": "{entity1} is the stepmother of {entity2}."}
+{"relation": "main subject", "template": "The main subject of {entity1} is {entity2}."}
+{"relation": "sport", "template": "The sport of {entity1} is {entity2}."}
+{"relation": "original broadcaster", "template": "The original broadcaster of {entity1} is {entity2}."}
+{"relation": "field of work", "template": "The field of work of {entity1} is {entity2}."}
+{"relation": "honorific suffix", "template": "The honorific suffix of {entity1} is {entity2}."}
+{"relation": "shape", "template": "The shape of {entity1} is {entity2}."}
+{"relation": "valid in period", "template": "{entity1} is valid in the period {entity2}."}
+{"relation": "has index case", "template": "{entity1} has the index case {entity2}."}
+{"relation": "cuisine", "template": "The cuisine of {entity1} is {entity2}."}
+{"relation": "side effect", "template": "A side effect of {entity1} is {entity2}."}
+{"relation": "point group", "template": "The point group of {entity1} is {entity2}."}
+{"relation": "notation", "template": "The notation of {entity1} is {entity2}."}
+{"relation": "endemic to", "template": "{entity1} is endemic to {entity2}."}
+{"relation": "native language", "template": "The native language of {entity1} is {entity2}."}
+{"relation": "award received", "template": "{entity1} received the award {entity2}."}
+{"relation": "heritage designation", "template": "{entity1} has the heritage designation {entity2}."}
+{"relation": "has cause", "template": "{entity1} has the cause {entity2}."}
+{"relation": "character role", "template": "The character role of {entity1} is {entity2}."}
+{"relation": "spore print color", "template": "The spore print color of {entity1} is {entity2}."}
+{"relation": "hair color", "template": "The hair color of {entity1} is {entity2}."}
+{"relation": "original combination", "template": "{entity1} is an original combination of {entity2}."}
+{"relation": "member of political party", "template": "{entity1} is a member of the political party {entity2}."}
+{"relation": "airline alliance", "template": "The airline alliance of {entity1} is {entity2}."}
+{"relation": "decay mode", "template": "The decay mode of {entity1} is {entity2}."}
+{"relation": "highest judicial authority", "template": "The highest judicial authority of {entity1} is {entity2}."}
+{"relation": "fossil found in this unit", "template": "The fossil found in the unit {entity1} is {entity2}."}
+{"relation": "donated by", "template": "{entity1} was donated by {entity2}."}
+{"relation": "described by source", "template": "{entity1} is described by the source {entity2}."}
+{"relation": "discography", "template": "The discography of {entity1} includes {entity2}."}
+{"relation": "sex or gender", "template": "The sex or gender of {entity1} is {entity2}."}
+{"relation": "military casualty classification", "template": "The military casualty classification of {entity1} is {entity2}."}
+{"relation": "cell component", "template": "The cell component of {entity1} is {entity2}."}
+{"relation": "scheduled service destination", "template": "The scheduled service destination of {entity1} is {entity2}."}
+{"relation": "discoverer or inventor", "template": "The discoverer or inventor of {entity1} is {entity2}."}
+{"relation": "is pollinator of", "template": "{entity1} is a pollinator of {entity2}."}
+{"relation": "ancestral home", "template": "The ancestral home of {entity1} is {entity2}."}
+{"relation": "b-side", "template": "The b-side of {entity1} is {entity2}."}
+{"relation": "platform", "template": "The platform of {entity1} is {entity2}."}
+{"relation": "creator", "template": "The creator of {entity1} is {entity2}."}
+{"relation": "operating system", "template": "The operating system of {entity1} is {entity2}."}
+{"relation": "stipe character", "template": "The stipe character of {entity1} is {entity2}."}
+{"relation": "judge", "template": "The judge of {entity1} is {entity2}."}
+{"relation": "architect", "template": "The architect of {entity1} is {entity2}."}
+{"relation": "position held", "template": "The position held by {entity1} is {entity2}."}
+{"relation": "mouth of the watercourse", "template": "The mouth of the watercourse {entity1} is {entity2}."}
+{"relation": "ecoregion (WWF)", "template": "The ecoregion (WWF) of {entity1} is {entity2}."}
+{"relation": "lowest point", "template": "The lowest point of {entity1} is {entity2}."}
+{"relation": "language of work or name", "template": "The language of work or name for {entity1} is {entity2}."}
+{"relation": "possible creator", "template": "The possible creator of {entity1} is {entity2}."}
+{"relation": "production company", "template": "The production company of {entity1} is {entity2}."}
+{"relation": "office held by head of state", "template": "The office held by the head of state {entity1} is {entity2}."}
+{"relation": "depends on software", "template": "{entity1} depends on the software {entity2}."}
+{"relation": "brother", "template": "{entity1} is the brother of {entity2}."}
+{"relation": "launch site", "template": "The launch site of {entity1} is {entity2}."}
+{"relation": "characters", "template": "{entity1} has characters {entity2}."}
+{"relation": "game mode", "template": "The game mode of {entity1} is {entity2}."}
+{"relation": "transport network", "template": "The transport network of {entity1} is {entity2}."}
+{"relation": "programmed in", "template": "{entity1} is programmed in {entity2}."}
+{"relation": "interaction", "template": "The interaction of {entity1} is {entity2}."}
+{"relation": "has contributing factor", "template": "{entity1} has the contributing factor {entity2}."}
+{"relation": "natural product of taxon", "template": "{entity1} is a natural product of the taxon {entity2}."}
+{"relation": "has facet polytope", "template": "{entity1} has the facet polytope {entity2}."}
+{"relation": "connecting service", "template": "The connecting service for {entity1} is {entity2}."}
+{"relation": "diplomatic relation", "template": "The diplomatic relation of {entity1} is {entity2}."}
+{"relation": "digital rights management system", "template": "The digital rights management system of {entity1} is {entity2}."}
+{"relation": "NATO code for grade", "template": "The NATO code for the grade of {entity1} is {entity2}."}
+{"relation": "category for people born here", "template": "The category for people born at {entity1} is {entity2}."}
+{"relation": "director / manager", "template": "The director/manager of {entity1} is {entity2}."}
+{"relation": "languages spoken, written or signed", "template": "{entity1} speaks, writes, or signs the language {entity2}."}
+{"relation": "points/goal scored by", "template": "{entity1} has points/goals scored by {entity2}."}
+{"relation": "cathedral", "template": "The cathedral of {entity1} is {entity2}."}
+{"relation": "ethnic group", "template": "The ethnic group of {entity1} is {entity2}."}
+{"relation": "of", "template": "{entity1} is of {entity2}."}
+{"relation": "increased expression in", "template": "{entity1} has increased expression in {entity2}."}
+{"relation": "filming location", "template": "The filming location of {entity1} is {entity2}."}
+{"relation": "contains the administrative territorial entity", "template": "{entity1} contains the administrative territorial entity {entity2}."}
+{"relation": "second family name in Spanish name", "template": "The second family name in Spanish for {entity1} is {entity2}."}
+{"relation": "has edition or translation", "template": "{entity1} has the edition or translation {entity2}."}
+{"relation": "location of discovery", "template": "The location of discovery for {entity1} is {entity2}."}
+{"relation": "spouse", "template": "{entity1} is the spouse of {entity2}."}
+{"relation": "start point", "template": "The start point of {entity1} is {entity2}."}
+{"relation": "altered regulation leads to", "template": "The altered regulation of {entity1} leads to {entity2}."}
+{"relation": "primary destinations", "template": "The primary destinations of {entity1} are {entity2}."}
+{"relation": "takeoff and landing capability", "template": "The takeoff and landing capability of {entity1} is {entity2}."}
+{"relation": "Eight Banner register", "template": "The Eight Banner register of {entity1} is {entity2}."}
+{"relation": "director of photography", "template": "The director of photography for {entity1} is {entity2}."}
+{"relation": "hymenium attachment", "template": "The hymenium attachment of {entity1} is {entity2}."}
+{"relation": "addressee", "template": "The addressee of {entity1} is {entity2}."}
+{"relation": "instrument", "template": "{entity1} uses the instrument {entity2}."}
+{"relation": "edibility", "template": "The edibility of {entity1} is {entity2}."}
+{"relation": "PEGI rating", "template": "The PEGI rating of {entity1} is {entity2}."}
+{"relation": "writable file format", "template": "The writable file format of {entity1} is {entity2}."}
+{"relation": "archives at", "template": "{entity1} is archived at {entity2}."}
+{"relation": "father", "template": "{entity1} is the father of {entity2}."}
+{"relation": "applies to jurisdiction", "template": "{entity1} applies to the jurisdiction {entity2}."}
+{"relation": "conflict", "template": "{entity1} is in conflict with {entity2}."}
+{"relation": "opposite of", "template": "{entity1} is the opposite of {entity2}."}
+{"relation": "astronaut mission", "template": "The astronaut mission of {entity1} is {entity2}."}
+{"relation": "has natural reservoir", "template": "{entity1} has the natural reservoir {entity2}."}
+{"relation": "located in time zone", "template": "{entity1} is located in the time zone {entity2}."}
+{"relation": "cast member", "template": "{entity1} is a cast member in {entity2}."}
+{"relation": "illustrator", "template": "The illustrator of {entity1} is {entity2}."}
+{"relation": "organizer", "template": "The organizer of {entity1} is {entity2}."}
+{"relation": "valvetrain configuration", "template": "The valvetrain configuration of {entity1} is {entity2}."}
+{"relation": "tonality", "template": "The tonality of {entity1} is {entity2}."}
+{"relation": "removed feature", "template": "The removed feature of {entity1} is {entity2}."}
+{"relation": "owned by", "template": "{entity1} is owned by {entity2}."}
+{"relation": "follows", "template": "{entity1} follows {entity2}."}
+{"relation": "list of monuments", "template": "The list of monuments in {entity1} includes {entity2}."}
+{"relation": "officially opened by", "template": "{entity1} was officially opened by {entity2}."}
+{"relation": "religion or worldview", "template": "The religion or worldview of {entity1} is {entity2}."}
+{"relation": "educated at", "template": "{entity1} was educated at {entity2}."}
+{"relation": "mineral fracture", "template": "The mineral fracture of {entity1} is {entity2}."}
+{"relation": "medical examination", "template": "The medical examination for {entity1} is {entity2}."}
+{"relation": "regulates (molecular biology)", "template": "{entity1} regulates {entity2} in molecular biology."}
+{"relation": "composer", "template": "The composer of {entity1} is {entity2}."}
+{"relation": "genre", "template": "The genre of {entity1} is {entity2}."}
+{"relation": "genomic assembly", "template": "The genomic assembly of {entity1} is {entity2}."}
+{"relation": "work location", "template": "The work location of {entity1} is {entity2}."}
+{"relation": "is pollinated by", "template": "{entity1} is pollinated by {entity2}."}
+{"relation": "winner", "template": "{entity1} is the winner of {entity2}."}
+{"relation": "mode of inheritance", "template": "The mode of inheritance for {entity1} is {entity2}."}
+{"relation": "CERO rating", "template": "The CERO rating of {entity1} is {entity2}."}
+{"relation": "follower of", "template": "{entity1} is a follower of {entity2}."}
+{"relation": "Fach vocal classification", "template": "The Fach vocal classification of {entity1} is {entity2}."}
+{"relation": "item operated", "template": "{entity1} operates the item {entity2}."}
+{"relation": "received signal type", "template": "The received signal type of {entity1} is {entity2}."}
+{"relation": "member of", "template": "{entity1} is a member of {entity2}."}
+{"relation": "language regulatory body", "template": "The language regulatory body for {entity1} is {entity2}."}
+{"relation": "structure replaces", "template": "The structure of {entity1} replaces {entity2}."}
+{"relation": "exemplar of", "template": "{entity1} is an exemplar of {entity2}."}
+{"relation": "business division", "template": "The business division of {entity1} is {entity2}."}
+{"relation": "original language of film or TV show", "template": "The original language of the film or TV show {entity1} is {entity2}."}
+{"relation": "interchange station", "template": "The interchange station for {entity1} is {entity2}."}
+{"relation": "motto", "template": "The motto of {entity1} is {entity2}."}
+{"relation": "librettist", "template": "The librettist of {entity1} is {entity2}."}
+{"relation": "streak color", "template": "The streak color of {entity1} is {entity2}."}
+{"relation": "day in year for periodic occurrence", "template": "The day in the year for the periodic occurrence of {entity1} is {entity2}."}
